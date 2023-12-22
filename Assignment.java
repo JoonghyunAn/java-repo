@@ -41,4 +41,5 @@ public class Assignment
         modifyFile("C://Users//Coldnoodle//Desktop//poemCanonization.txt", "The", "This"); 
         System.out.println("Assignment complete! Good job Joonghyun!");
     }
-}
+} // with the help of.. 
+//https://javaconceptoftheday.com/modify-replace-specific-string-in-text-file-in-java/
